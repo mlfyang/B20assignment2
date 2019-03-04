@@ -18,23 +18,21 @@
     font-size: 14px;
     text-align: center;
     align-content: center;
-    min-width:670px;
+    min-width:850px;
     width: auto !important;
-    width:670px;
+    width:850px;
     background-color: #ECF6FF;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
 }
 
 .commonlogo{
     position: absolute;
     top: 0px;
     left: 30px;
-}
-
-.commonHeader{
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
 }
 
 .commonTop{
@@ -58,6 +56,34 @@
     background-color: #00408A;
     text-align: center;
     text-decoration: none;
+}
+
+.profTeam{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#profPic{
+    flex: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#profInfo {
+    flex: right;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.ta{
+    margin-top: 75px;
+}
+
+#taTitle{
+    font-size: 20px;
 }
 
 
@@ -161,6 +187,10 @@ a:hover {
   background-color: #498CD9;
   color:white;
   text-decoration: underline;
+}
+
+td {
+    color: #2C75C9;
 }
 
 #whitetextbox {

@@ -98,3 +98,75 @@ td {
   text-decoration: none;
   color: black;
 }
+
+
+.header2 {
+    font-size: 15px;
+    font-weight: bold;
+    color: darkblue;
+    text-align: center;
+
+}
+
+
+#textbox {
+    margin-right:17%;
+    margin-left:17%;
+    color: white;
+    margin-top: 0px;
+    display:inline-block;
+    align-content: center;
+    max-width: 100%;
+    padding-top: 0px;
+ 
+}   
+
+#textboxblack {
+    color: black;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-right: 2%;
+    margin-left: 2%;
+
+}
+
+   
+.maintext{
+    font-size: 16px;
+    font-family:(Arial, Helvetica, sans-serif);
+    color: black;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+}
+.maintextblue{
+    font-size: 16px;
+    font-family:(Arial, Helvetica, sans-serif);
+    color: #050095;
+    padding: 5px;
+    justify-content: center;
+    text-align: left;
+}
+
+.container {
+  display: flex;
+  margin-right: 17%;
+  margin-left: 17%;
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding-top: 4px;
+  padding-bottom: 5px;
+
+}
+
+.block {
+  display:block;
+  margin-right: 17%;
+  margin-left: 17%;
+  border-bottom: 2px;
+  border-color: gray;
+
+}

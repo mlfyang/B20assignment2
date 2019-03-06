@@ -81,3 +81,20 @@ td {
     left: 30px;
 }
 
+/* footer */
+
+.footerClass{
+  padding-left: 3rem !important;
+  padding-right: 3rem !important;
+  padding-bottom: 1.5rem !important;
+  padding-top: 1.5rem !important;
+}
+
+.footerText{
+  text-align: center !important;
+}
+
+#faculty:visited {
+  text-decoration: none;
+  color: black;
+}

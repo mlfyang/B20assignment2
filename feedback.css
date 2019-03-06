@@ -98,3 +98,25 @@ td {
   text-decoration: none;
   color: black;
 }
+
+
+#whitetextbox {
+    padding-right:10%;
+    padding-left:10%;
+    margin-right:17%;
+    margin-left:17%;
+    background-color: #F8F8FF;
+    margin-top:10px;
+    max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+    border-width: 2px;
+    border-color: grey;
+ 
+}   
+
+input[type=text]{
+  width:100%;
+  padding-bottom: 20px;
+}

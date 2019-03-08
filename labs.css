@@ -170,3 +170,11 @@ td {
   border-color: gray;
 
 }
+
+#textboxblack:hover {
+        background-color:   #00BFFF;
+}
+
+.block:hover {
+  background-color:   #00BFFF;
+}

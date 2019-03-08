@@ -64,7 +64,7 @@
 }
 
 .ta{
-    margin-top: 75px;
+    margin-top: 10px;
 }
 
 #taTitle{
@@ -179,19 +179,20 @@ td {
 }
 
 #whitetextbox {
-    padding-right:10%;
+    padding-right:5%;
     padding-left:5%;
-    margin-right:17%;
-    margin-left:17%;
+    margin-right:30%;
+    margin-left:30%;
     background-color: #F8F8FF;
     font: #2C75C9;
     margin-top:0px;
     max-width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     border: solid;
     border-width: 2px;
     border-color: #CDCDCD;
+    margin:top 10px;
  
 }   
 
@@ -256,3 +257,10 @@ td {
     text-decoration: none;
     color: black;
   }
+#whitetextbox:hover {
+    background-color:   #00BFFF;
+}
+
+#profInfo:hover {
+    background-color:   #00BFFF;
+}
